@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>widerface</folder>
+<filename>31--Waiter_Waitress_31_Waiter_Waitress_Waiter_Waitress_31_26.jpg</filename>
+<source>
+<database>wider face Database</database>
+<annotation>PASCAL VOC2007</annotation>
+<image>flickr</image>
+<flickrid>-1</flickrid>
+</source>
+<owner>
+<flickrid>yanyu</flickrid>
+<name>yanyu</name>
+</owner>
+<size>
+<width>1284</width>
+<height>1284</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>face</name>
+<pose>Unspecified</pose>
+<truncated>1</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>706</xmin>
+<ymin>188</ymin>
+<xmax>839</xmax>
+<ymax>313</ymax>
+</bndbox>
+</object>
+<object>
+<name>face</name>
+<pose>Unspecified</pose>
+<truncated>1</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>348</xmin>
+<ymin>356</ymin>
+<xmax>468</xmax>
+<ymax>499</ymax>
+</bndbox>
+</object>
+</annotation>

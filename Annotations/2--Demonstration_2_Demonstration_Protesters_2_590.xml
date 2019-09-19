@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>widerface</folder>
+<filename>2--Demonstration_2_Demonstration_Protesters_2_590.jpg</filename>
+<source>
+<database>wider face Database</database>
+<annotation>PASCAL VOC2007</annotation>
+<image>flickr</image>
+<flickrid>-1</flickrid>
+</source>
+<owner>
+<flickrid>yanyu</flickrid>
+<name>yanyu</name>
+</owner>
+<size>
+<width>1378</width>
+<height>1379</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>face</name>
+<pose>Unspecified</pose>
+<truncated>1</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>490</xmin>
+<ymin>412</ymin>
+<xmax>574</xmax>
+<ymax>609</ymax>
+</bndbox>
+</object>
+</annotation>

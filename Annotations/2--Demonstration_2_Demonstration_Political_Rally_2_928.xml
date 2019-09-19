@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>widerface</folder>
+<filename>2--Demonstration_2_Demonstration_Political_Rally_2_928.jpg</filename>
+<source>
+<database>wider face Database</database>
+<annotation>PASCAL VOC2007</annotation>
+<image>flickr</image>
+<flickrid>-1</flickrid>
+</source>
+<owner>
+<flickrid>yanyu</flickrid>
+<name>yanyu</name>
+</owner>
+<size>
+<width>2040</width>
+<height>2040</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>face</name>
+<pose>Unspecified</pose>
+<truncated>1</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>887</xmin>
+<ymin>1458</ymin>
+<xmax>1082</xmax>
+<ymax>1713</ymax>
+</bndbox>
+</object>
+<object>
+<name>face</name>
+<pose>Unspecified</pose>
+<truncated>1</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>544</xmin>
+<ymin>1287</ymin>
+<xmax>679</xmax>
+<ymax>1446</ymax>
+</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>widerface</folder>
+<filename>20--Family_Group_20_Family_Group_Family_Group_20_510.jpg</filename>
+<source>
+<database>wider face Database</database>
+<annotation>PASCAL VOC2007</annotation>
+<image>flickr</image>
+<flickrid>-1</flickrid>
+</source>
+<owner>
+<flickrid>yanyu</flickrid>
+<name>yanyu</name>
+</owner>
+<size>
+<width>2516</width>
+<height>2517</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>face</name>
+<pose>Unspecified</pose>
+<truncated>1</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>1032</xmin>
+<ymin>364</ymin>
+<xmax>1273</xmax>
+<ymax>674</ymax>
+</bndbox>
+</object>
+<object>
+<name>face</name>
+<pose>Unspecified</pose>
+<truncated>1</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>1376</xmin>
+<ymin>1595</ymin>
+<xmax>1558</xmax>
+<ymax>1841</ymax>
+</bndbox>
+</object>
+</annotation>

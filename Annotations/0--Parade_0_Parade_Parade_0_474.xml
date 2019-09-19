@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>widerface</folder>
+<filename>0--Parade_0_Parade_Parade_0_474.jpg</filename>
+<source>
+<database>wider face Database</database>
+<annotation>PASCAL VOC2007</annotation>
+<image>flickr</image>
+<flickrid>-1</flickrid>
+</source>
+<owner>
+<flickrid>yanyu</flickrid>
+<name>yanyu</name>
+</owner>
+<size>
+<width>1202</width>
+<height>1203</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>face</name>
+<pose>Unspecified</pose>
+<truncated>1</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>93</xmin>
+<ymin>929</ymin>
+<xmax>114</xmax>
+<ymax>962</ymax>
+</bndbox>
+</object>
+<object>
+<name>face</name>
+<pose>Unspecified</pose>
+<truncated>1</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>863</xmin>
+<ymin>355</ymin>
+<xmax>893</xmax>
+<ymax>387</ymax>
+</bndbox>
+</object>
+</annotation>

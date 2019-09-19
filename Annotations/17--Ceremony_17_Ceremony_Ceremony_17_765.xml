@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>widerface</folder>
+<filename>17--Ceremony_17_Ceremony_Ceremony_17_765.jpg</filename>
+<source>
+<database>wider face Database</database>
+<annotation>PASCAL VOC2007</annotation>
+<image>flickr</image>
+<flickrid>-1</flickrid>
+</source>
+<owner>
+<flickrid>yanyu</flickrid>
+<name>yanyu</name>
+</owner>
+<size>
+<width>1024</width>
+<height>1024</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>face</name>
+<pose>Unspecified</pose>
+<truncated>1</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>86</xmin>
+<ymin>628</ymin>
+<xmax>127</xmax>
+<ymax>689</ymax>
+</bndbox>
+</object>
+<object>
+<name>face</name>
+<pose>Unspecified</pose>
+<truncated>1</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>377</xmin>
+<ymin>553</ymin>
+<xmax>397</xmax>
+<ymax>596</ymax>
+</bndbox>
+</object>
+</annotation>

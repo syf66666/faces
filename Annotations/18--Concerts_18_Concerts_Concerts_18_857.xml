@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>widerface</folder>
+<filename>18--Concerts_18_Concerts_Concerts_18_857.jpg</filename>
+<source>
+<database>wider face Database</database>
+<annotation>PASCAL VOC2007</annotation>
+<image>flickr</image>
+<flickrid>-1</flickrid>
+</source>
+<owner>
+<flickrid>yanyu</flickrid>
+<name>yanyu</name>
+</owner>
+<size>
+<width>1534</width>
+<height>1534</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>face</name>
+<pose>Unspecified</pose>
+<truncated>1</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>773</xmin>
+<ymin>174</ymin>
+<xmax>953</xmax>
+<ymax>494</ymax>
+</bndbox>
+</object>
+</annotation>
